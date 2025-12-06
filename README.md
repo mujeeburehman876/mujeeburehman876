@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm software engineerig , having experience in c++, java and python along with datascience and ai chatbot.<br>I've also done different projects like android app developement and website developement.<br>Also worked on Upwork with many clients.<br>I also wanna learn new technologies realated to AI and how things are shifted into tech.<br>Wanna learn new things and will be happy to connect with like wise mind people.
+I’m a Software Engineer with hands-on experience in C++, Java, and Python, along with a strong foundation in Data Science and AI-based chatbots. I’ve worked on a variety of projects, including Android app development and full-stack website development, and have collaborated with multiple clients on Upwork.
+
+I’m passionate about exploring emerging technologies, especially in the field of Artificial Intelligence, and continuously expanding my skillset as the tech landscape evolves. Always open to learning, building, and connecting with like-minded individuals.
 
 
 ## 🌐 Socials:
